@@ -1,0 +1,5 @@
+NODE_ENV=development
+# will comment out the line
+#MONGODB_URI=
+#REDISCLOUD_URL=
+SESSION_SECRET=secret session key
